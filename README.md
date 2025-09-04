@@ -12,7 +12,6 @@ we studied github
 _my age is 19 (to be)_
 <br/>
 - unordered list1
-- <br/>
 - unordered list2
 <br/>
 1. ordered list1
